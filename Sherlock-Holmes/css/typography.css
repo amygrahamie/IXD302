@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+body {
+background: #EBD5BE;
+}
+
+.sherlockhead {
+    padding-top: 3em;
+}
+
+h1 {
+    font-family: 'Playfair Display SC', serif;
+    padding-top: .7em;
+}
+
+
+.sherlock {
+    position: absolute;
+    top: 360px;
+    left: 538px;
+    color: white;    
+}
+
+h2 {
+    font-family:'Berkshire Swash', cursive;
+    position: absolute;
+    top: 420px;
+    left: 605px;
+    color: white; 
+}
+
+h3 { 
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1em;
+    padding-top: .3em
+    border-style: solid;
+    border-top: medium dotted black;
+    width: 32%;
+   
+}
+
+
+
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Playfair Display SC', serif;

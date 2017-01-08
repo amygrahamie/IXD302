@@ -16,10 +16,11 @@
 
 - [Plain HTML](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/heroes-and-villains.html)
 *In This task we changed regular old text into html in its pure form.*
+
 - [Mood Board](https://uk.pinterest.com/grahamie/sherlock-holmes-uni/)
 
-- [Typography Excercises]()
+- [Supporting Sketches]()
 
-- [Prototypes]()
+- [Typography Excercises](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/typography.html)
 
-- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/.html)
+- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/index.html)

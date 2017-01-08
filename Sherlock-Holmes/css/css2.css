@@ -29,6 +29,11 @@ body {
     background-color: #495565;
 }
 
+a:hover,
+a:focus {
+    
+}
+
 .list {
     list-style-type: none;
     margin: 0;
@@ -76,6 +81,9 @@ h3 {
 #layout {
     padding: 0;}
 
+.header {
+ 
+}
 
 .sidebar {
     background: #F3ECE6;
@@ -131,7 +139,7 @@ h3 {
         bottom: 0;
     }
 
-/*------------parralax------------*/
+/*------------parallax------------*/
 
 @media only screen and (max-device-width: 1024px) {
     .parallax {
@@ -166,7 +174,9 @@ h3 {
 
 .london {
    margin-top: 30px;
-    margin-bottom: 30px;
+   margin-bottom: 30px;
+    width: 80%;
+
 }
 
 .head {
@@ -350,8 +360,12 @@ h8 {
     font-family: 'raleway';
     font-size: 1.3em;
     margin-left: 90px;
-    margin-right: 50px;
-    
+    margin-right: 50px;   
+}
+
+.fadeInUp {
+    animation-duration: 15s;
+    animation-delay: 1s;
 }
 
 
