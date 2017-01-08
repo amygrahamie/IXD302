@@ -6,11 +6,9 @@
 [View Website Here]
 [Mood Boards](https://uk.pinterest.com/grahamie/bird-project/)
 
-<<<<<<< HEAD
-=======
+
 ###Heroes & Villians - Week 1 & 2
 *In This task we changed regular old text into html in its pure form.*
->>>>>>> origin/gh-pages
 
 ###Master Apprentice: Heroes and Villans Website
 *In This task we changed regular old text into html in its pure form.*
