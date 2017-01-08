@@ -5,7 +5,7 @@
 ###Narrative Takhe Website
 - [View Website Here](https://amygrahamie.github.io/Bird-Project/index.html)
 - [Mood Board 1](https://uk.pinterest.com/grahamie/bird-project/)
-- [Mood Board 2](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/images/moodboard.jpg)
+- [Mood Board 2](https://amygrahamie.github.io/IXD302/images/moodboard.jpg)
 
 
 ###Heroes & Villians - Week 1 & 2
