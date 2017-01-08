@@ -14,7 +14,7 @@
 
 ###Master Apprentice: Heroes and Villans Website
 
-- [Plain HTML](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/index.html)
+- [Plain HTML](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/heroes-and-villains.html)
 *In This task we changed regular old text into html in its pure form.*
 - [Mood Board](https://uk.pinterest.com/grahamie/sherlock-holmes-uni/)
 
@@ -22,4 +22,4 @@
 
 - [Prototypes]()
 
-- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/heroes-and-villains2.html)
+- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/index.html)
