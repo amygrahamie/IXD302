@@ -22,4 +22,4 @@
 
 - [Prototypes]()
 
-- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/index.html)
+- [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/.html)
