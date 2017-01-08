@@ -21,6 +21,6 @@
 
 - [Supporting Sketches]()
 
-- [Typography Excercises](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/typography.html)
+- [Typography Excercises](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/typography.html) *Orginal Image can be found [here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/images/typographyex.jpeg)* 
 
 - [View Final Website Here](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/index.html)
