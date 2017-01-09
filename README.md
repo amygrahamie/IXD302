@@ -9,6 +9,8 @@
 - [Mood Board 2](https://amygrahamie.github.io/IXD302/images/moodboard.jpg)
 *When I created this moodboard I was going for bright bold colours, which ties in well with the National Geographics logo colour although I didnt stick to this style for long and ended up going for deeper more subdued colours.*
 
+- [Style Tile](https://amygrahamie.github.io/IXD302/Bird-Projects/images/styletile.png)
+
 ###Heroes & Villians - Week 1 & 2
 *In This task we changed regular old text into html in its pure form.*
 
