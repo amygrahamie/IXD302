@@ -12,9 +12,6 @@
 - [Supporting Sketches](https://amygrahamie.github.io/Bird-Project/supportingsketches.html)
 
 
-###Heroes & Villians - Week 1 & 2
-*In This task we changed regular old text into html in its pure form.*
-
 ###Master Apprentice: Heroes and Villans Website
 
 - [Plain HTML](https://amygrahamie.github.io/IXD302/Sherlock-Holmes/heroes-and-villains.html) - *In This task we changed regular old text into html in its pure form.*
